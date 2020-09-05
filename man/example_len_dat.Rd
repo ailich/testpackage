@@ -5,7 +5,7 @@
 \alias{example_len_dat}
 \title{Fake FWC Length Frequency Data}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 55243 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 10508 rows and 5 columns.
 }
 \usage{
 data(example_len_dat)

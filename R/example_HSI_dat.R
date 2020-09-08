@@ -8,6 +8,6 @@
 #'
 #' @examples
 #' data(example_HSI_dat)
-#' BottomType_HSI <- CalcHSI_cat(DataInput = example_HSI_data, EnvVariable = Bottom)
+#' BottomType_HSI <- CalcHSI_cat(dat = example_HSI_data, EnvVariable = Bottom)
 
 "example_HSI_dat"
